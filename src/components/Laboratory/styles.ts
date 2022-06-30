@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const Container = styled.section`
 max-width: 85%;
 margin: 1rem auto;
-background-color: var(--black200);
+background-color: var(--blue);
 border-radius: 0.5rem;
 
 
@@ -11,7 +11,7 @@ h1 {
     padding: 1rem 3rem;
     font-size: 2.5rem;
     text-align: center;
-}
+  }
 
 `
 

@@ -5,7 +5,7 @@ export function Skills() {
   const color_gray = "var(--gray300)";
   return (
     <Container id="skills">
-      <h1>Skills</h1>
+      <h1>Habilidades</h1>
       <Content>
         <div>
           <FileHtml size={150} color={color_gray} weight="fill" />

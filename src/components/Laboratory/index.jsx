@@ -6,7 +6,9 @@ import glass_img from "../../assets/img/glass.png";
 export function Laboratory() {
   return (
     <Container id="laboratory">
-      <h1>Laboratory</h1>
+      <h1>Laboratório</h1>
+    
+     
       <Content>
         <div className="card">
           <h2>BootCamp Nlw</h2>

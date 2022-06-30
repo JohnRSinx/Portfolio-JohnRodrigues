@@ -9,7 +9,7 @@ align-items: center;
 
 width: 85%;
 margin: 1rem auto;
-background-color: var(--black200);
+background-color: var(--blue);
 border-radius: 0.5rem
 ;
 
@@ -33,15 +33,14 @@ h2  {
 }
 p { 
     padding-top: 2rem;
-    opacity: 0.8;
     font-size: 18px;
     
 }
 
 img{
     padding: 2rem;
-    border-radius: 100%;
-    max-height: 400px;
+    border-radius: 10rem;
+    max-height: 480px;
     max-width: 100%;
     @media (max-width:100%) {
         display: block;

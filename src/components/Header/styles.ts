@@ -4,7 +4,7 @@ export const Container = styled.header`
   height: 5rem;
   width: 85%;
   margin: 1rem auto;
-  background-color: var(--black200);
+  background-color: var(--blue);
   border-radius: 0.5rem;
 
   div {

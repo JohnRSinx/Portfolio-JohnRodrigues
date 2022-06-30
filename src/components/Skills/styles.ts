@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const Container = styled.section `
 max-width: 85%;
 margin: 0.5rem auto;
-background-color: var(--black200);
+background-color: var(--blue);
 border-radius: 0.5rem;
 align-items: center;
 
