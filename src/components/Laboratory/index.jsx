@@ -1,7 +1,7 @@
 import { Container, Content } from "./styles";
 import nlw_img from "../../assets/img/nlw.jpg";
 import dtmoney_img from "../../assets/img/dtmoney.png";
-import glass_img from "../../assets/img/glass.png";
+import stc_img from "../../assets/img/home-cards-TC.png";
 
 export function Laboratory() {
   return (
@@ -25,9 +25,9 @@ export function Laboratory() {
           </a>
         </div>
         <div className="card">
-          <h2>Clone GoogleGlass</h2>
-          <img src={glass_img} alt="home do clone do googleglass" />
-          <a href="https://github.com/JohnRSinx/GoogleGlass">
+          <h2>Crud</h2>
+          <img src={stc_img} alt="home do clone do googleglass" />
+          <a href="https://github.com/JohnRSinx/StudioThalitaCouto">
             <p>Ver Projeto</p>
           </a>
         </div>
