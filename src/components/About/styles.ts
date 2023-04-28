@@ -14,7 +14,7 @@ border-radius: 0.5rem
 ;
 
 div {
-    width: 40%;
+    width: 50%;
     padding: 3rem;
     @media (max-width:750px){
         width: 100%;
@@ -32,14 +32,18 @@ h2  {
     font-size: 1.5rem;
 }
 p { 
+    font-family: 'Roboto', sans-serif;
     padding-top: 2rem;
-    font-size: 18px;
+    font-size: 1.125rem;
+    line-height: 130%;
+    text-align: justify;
     
 }
 
 img{
-    padding: 2rem;
-    border-radius: 10rem;
+    margin-right: 2rem;
+    width: 25rem;
+    border-radius: 1rem;
     max-height: 480px;
     max-width: 100%;
     @media (max-width:100%) {

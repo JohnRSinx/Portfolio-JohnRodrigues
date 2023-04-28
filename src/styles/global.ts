@@ -29,7 +29,7 @@ body  {
     
 }
 body , input , textarea ,button {
-    font-family: 'Manrope', sans-serif;
+    font-family: 'Baloo 2', cursive;
     font-weight: 400;
 }
 p , a , img { 
